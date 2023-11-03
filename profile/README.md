@@ -2,7 +2,7 @@
 
 ------------------------------------------------------------------------------------------------------------------
 
-## Welcome to the repository for the project of the programming logic discipline: LG2, taught by prof. Ugo Henrique
+<span style="color: pink;">## Welcome to the repository for the project of the programming logic discipline: LG2, taught by prof. Ugo Henrique</span>
 
 ------------------------------------------------------------------------------------------------------------------
 
