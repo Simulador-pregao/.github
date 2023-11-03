@@ -79,7 +79,7 @@ We welcome contributions, suggestions, and feedback from the community. Whether 
 
 - Upon opening the repository titled "simulador-pregao," you will find another README.md file that contains the structure of the entire project!
 
-> project in progress
-
 ## LICENSE
 This project is protected by all rights reserved. You are permitted to fork this repository and make modifications for personal or educational use only. Any other use, including but not limited to commercial use, distribution, or reproduction, is strictly prohibited without explicit written permission from the project's maintainers.
+
+> project in progress
