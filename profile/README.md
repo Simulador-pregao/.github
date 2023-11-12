@@ -13,7 +13,7 @@
 
 ### About the project
 
-Simulador-pregão in Portuguese, which means "Trading Floor simulator". This program is designed to simulate an auction or bidding system, allowing users to practice and understand the dynamics of online auctions. The simulator is being created as a learning tool for students and enthusiasts interested in understanding the fundamentals of auction systems.
+Simulador-pregão in Portuguese, which means "Trading Floor simulator". This program is designed to simulate an auction or bidding system, allowing users to practice and understand the dynamics of online auctions. The simulator is being created as a learning tool for students on java and how to manage data using .txt files.
 
 
 ## How to Get Started
