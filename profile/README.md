@@ -7,7 +7,7 @@
 ------------------------------------------------------------------------------------------------------------------
 
 ### Team responsible for the project
-- Mariana Megumi
+- Marino Megumi
 - Alice Maria 
 - Guilherme Yuji
 
